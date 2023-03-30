@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Verificar Saldo de Benefícios</title>
+  </head>
+  <body>
+    <h1>Saldo dos Benefícios</h1>
+    <p>Vale Alimentação: R$ <span id="saldoVA"></span></p>
+    <p>Vale Refeição: R$ <span id="saldoVR"></span></p>
+    <p>Vale Transporte: R$ <span id="saldoVT"></span></p>
+    
+    <script>
+      // Define os saldos iniciais dos benefícios
+      let saldoVA = 500;
+      let saldoVR = 1000;
+      let saldoVT = 150;
+      
+      // Atualiza o valor exibido no HTML para o saldo do vale alimentação
+      document.getElementById("saldoVA").innerHTML = saldoVA.toFixed(2);
+      
+      // Atualiza o valor exibido no HTML para o saldo do vale refeição
+      document.getElementById("saldoVR").innerHTML = saldoVR.toFixed(2);
+      
+      // Atualiza o valor exibido no HTML para o saldo do vale transporte
+      document.getElementById("saldoVT").innerHTML = saldoVT.toFixed(2);
+    </script>
+  </body>
+</html>
