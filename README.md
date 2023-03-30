@@ -10,7 +10,7 @@ Unificação de beneficios empresariais
 
  > ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
  
- ![imagemapp](https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-telefone-22.gif)
+![unnamed](https://user-images.githubusercontent.com/128197140/228975724-68342890-d142-4292-81bc-69a645b095ba.gif)
  
  Projeto de unificação de beneficios empresariais em um app multi plataformas. Saldo dos beneficios ofertados.
  * Vale Alimentação
@@ -42,6 +42,18 @@ edit autoexec.bat
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki
+
+## 🛠️ Requisitos para abrir e rodar o projeto
+
+* Android 13 ou superior.
+* iOs 16 ou superior.
+
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java 8``
+- ``HTML``
+- ``JavaScript``
 
 ## Desenvolvedores/Contribuintes :octocat:
 
