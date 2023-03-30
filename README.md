@@ -1,23 +1,26 @@
 # App de Beneficios
 
-Unificação de beneficios empresariais
+**Unificação de beneficios empresariais.**
 
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 
- > ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
  
 ![unnamed](https://user-images.githubusercontent.com/128197140/228975724-68342890-d142-4292-81bc-69a645b095ba.gif)
  
- Projeto de unificação de beneficios empresariais em um app multi plataformas. Saldo dos beneficios ofertados.
+ 
+ ## ✔️ Funcionalidades
+ 
+ Capaz de consultar o saldo atual dos beneficios ofertados pelo empregador sem a necessidade de se obter apps distintos, centralizando as informações em uma unica plataforma. Os beneficios que podem ser consultados são os seguintes: 
+ 
  * Vale Alimentação
  * Vale Refeição
  * Vale Transporte
  
- ## Instalação
+ ## ✔️ Instalação
 
 iOS:
 
@@ -33,8 +36,6 @@ edit autoexec.bat
 
  
  
-
-
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
