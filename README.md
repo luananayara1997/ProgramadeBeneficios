@@ -33,13 +33,7 @@ edit autoexec.bat
 
  
  
-## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
-
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
-
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
 
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
@@ -51,7 +45,10 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
- [<img src="https://avatars.githubusercontent.com/u/128197140?v=4" width=115><br><sub>Luana Nayara</sub>](https://github.com/luananayara1997)
+| [<img src="https://avatars.githubusercontent.com/u/128197140?v=4" width=115><br><sub>Luana Nayara</sub>](https://github.com/luananayara1997) |  [<img src="https://avatars.githubusercontent.com/u/128872249?v=4" width=115><br><sub>Danielle Felix</sub>](https://github.com/dannifelix) |  
+| :---: | :---: | 
+
+               
 
 ## Licença 
 
